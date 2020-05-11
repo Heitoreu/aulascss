@@ -1,0 +1,25 @@
+/* Aula inicial :D */
+body {
+    background: gray;
+    
+  }
+  a {
+    text-decoration: none; 
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content:space-evenly
+  }
+  
+  .site-title {
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+  }
